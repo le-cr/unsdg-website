@@ -1,0 +1,53 @@
+body {
+    margin: 20;
+    font-family: roboto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    font-size: 18;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+p {
+    text-indent: 40;
+}
+
+.img {
+    width: 500;
+    height: auto;
+}
+
+#poverty-logo {
+    width: 250;
+    height: auto;
+}
+
+#hunger-quote {
+    width: 250;
+    height: auto;
+}
+
+#hunger-logo {
+    width: 250;
+    height: auto;
+}
